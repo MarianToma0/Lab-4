@@ -1,0 +1,5 @@
+Lamborghinii Urus,2022,98000,False,Rosu,AerConditionat
+Ferrari LaFerrari,2013,120550,False,Alb,CruiseControl
+Mercedes Benz GLC Coupe,2023,65000,False,Negru,Navigatie
+Lamborghini Urus,2022,98000,False,Alb,AerConditionat, Navigatie
+Vw Golf,2013,3500,False,Alb,CutieAutomata
